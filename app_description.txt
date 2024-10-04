@@ -9,3 +9,5 @@ i want to create a chat-app with features as follows:
 8. Deleting the message(s)
 
 we'll be using React js, shadcn , Recoil (for state management), CodeIgniter (PhP framework), MySQL
+
+react-hook-form, react-router-dom
