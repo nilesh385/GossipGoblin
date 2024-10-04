@@ -1,0 +1,11 @@
+i want to create a chat-app with features as follows:
+1. User authentication and authorization
+2. User profiles
+3. Searching users based on usernames or names 
+4. One-to-one chatting
+5. Themes and Dark mode support
+6. Sending text and image messages
+7. Sending emojis
+8. Deleting the message(s)
+
+we'll be using React js, shadcn , Recoil (for state management), CodeIgniter (PhP framework), MySQL
