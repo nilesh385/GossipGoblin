@@ -1,4 +1,4 @@
-i want to create a chat-app with features as follows:
+I want to create a chat-app with features as follows:
 1. User authentication and authorization
 2. User profiles
 3. Searching users based on usernames or names 
@@ -8,6 +8,6 @@ i want to create a chat-app with features as follows:
 7. Sending emojis
 8. Deleting the message(s)
 
-we'll be using React js, shadcn , Recoil (for state management), CodeIgniter (PhP framework), MySQL
+we'll be using React js, Tailwind css , shadcn , Recoil (for state management), CodeIgniter (PhP framework), MySQL
 
 react-hook-form, react-router-dom
