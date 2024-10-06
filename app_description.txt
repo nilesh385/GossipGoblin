@@ -7,6 +7,7 @@ I want to create a chat-app with features as follows:
 6. Sending text and image messages
 7. Sending emojis
 8. Deleting the message(s)
+9. Add , delete friends
 
 we'll be using React js, Tailwind css , shadcn , Recoil (for state management), CodeIgniter (PhP framework), MySQL
 
